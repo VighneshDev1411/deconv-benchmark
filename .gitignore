@@ -1,0 +1,32 @@
+## LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+missfont.log
+
+## Raw data (too large for repo)
+data/
+
+## macOS
+.DS_Store
+
+## Claude memory
+.claude/
+
+## Legacy report files
+IEEEtran.cls
+final_report.tex
+final_report.pdf
+create_docx_report.py
+create_pdf_report.py
+create_presentation.py
+add_speaker_notes.py
+progress_report.*
+Project_progress_report_requirements.pdf
+CS502_PROJECT_PROPOSAL.pdf
+presentation.pptx
+qa_5.md
+qa_prep.md

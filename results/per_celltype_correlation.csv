@@ -1,0 +1,9 @@
+,NNLS,SVR,Robust Regression
+B cells,0.9723,0.9773,0.978
+Basophils,0.9946,0.9949,0.9955
+Dendritic cells,0.8731,0.8611,0.8637
+Monocytes,0.8526,0.8546,0.8524
+NK cells,0.9191,0.9174,0.9134
+Neutrophils,0.993,0.9938,0.9939
+Progenitor cells,0.9952,0.9949,0.9958
+T cells,0.9206,0.9117,0.9057

@@ -1,0 +1,4 @@
+,runtime_seconds,peak_memory_mb
+NNLS,0.04,1.04
+SVR,118.773,0.7
+Robust Regression,1.471,0.73
